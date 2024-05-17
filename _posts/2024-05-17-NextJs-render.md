@@ -1,6 +1,6 @@
 ---
 title: NextJs가 사전 렌더링하는 방식
-date: 20204-05-17 03:49:00 +0900
+date: 2024-05-17 03:49:00 +0900
 categories: [NextJs]
 tags: [NextJs, 웹개발] # TAG names should always be lowercase
 ---
