@@ -171,7 +171,7 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
   cherry :active, c, after b a, 1d
 ```
 
-## Images
+<!-- ## Images
 
 ### Default (with caption)
 
@@ -201,7 +201,7 @@ The image below will toggle dark/light mode based on theme preference, notice it
 
 ## Video
 
-{% include embed/youtube.html id='Balreaj8Yqs' %}
+{% include embed/youtube.html id='Balreaj8Yqs' %} -->
 
 ## Reverse Footnote
 
