@@ -1,6 +1,6 @@
 ---
 title: NextJs가 사전 렌더링하는 방식
-date: 20204-05-17 12:49:00 +/-09:00
+date: 20204-05-17 12:49:00 +09:00
 categories: [NextJs]
 tags: [NextJs, 웹개발] # TAG names should always be lowercase
 ---
@@ -17,4 +17,4 @@ NextJs는 기본적으로 사전렌더링을 한다
 
 # SSG(Static Site Generation)와 SSR(Server Side Rendering)
 
-NextJs에서 기본적으로 두가지의 사전렌더링 방식을 지원합니다
+NextJs에서 두가지의 사전렌더링 방식을 지원한다
